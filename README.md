@@ -1,9 +1,11 @@
+
+<!DOCTYPE html>
 <html lang="en">
   
   <head>
     
       <meta charset="utf-8">
-      <title>Interactive PCA Plot</title>
+      <title>Bokeh Plot</title>
       
       
         
@@ -25,7 +27,7 @@
   </head>
   
   
-  <body style="background-color: #f8f9f9;">
+  <body>
     
       
         
